@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<title>My first project</title>
+<link rel ="stylesheet" href ="css/styles.css 3">
+</head>
+<body>
+<header>
+<h1>WOMEN IN DIGITAL SKILLS</h1>
+</header>
+<div class ="wrapper">
+<h2>Welcome!</h2>
+<p>Women in digital skills are very few,indicating that its a male dominated field.But as few women in it we are here to encourage others to come as well.</p>
+<p>There is nothing a man can do that a woman cannot do.</p>
+<p>We can also be teachers to our daughters and sons in the next future.</p>
+<br>
+<h3>How you can start</h3>
+<p>If interested you can look up Muzinda Hub on the internet and get information.<p>
+</div>
+</body>
+<footer>
+<p>copyright; 2018 Women in ICT.</p>
+</footer>
+</html>
+
+
+
+
+
